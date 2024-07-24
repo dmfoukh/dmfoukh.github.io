@@ -16,7 +16,7 @@ h1, h2, h3, h4, b {
 }
 
 #top-nav {
-	background-color: var(--nv-color) !important;
+	background-color:rgb(255, 203, 0) !important;
 }
 
 .nav-link {
