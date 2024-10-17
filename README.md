@@ -41,9 +41,7 @@
   <a href="https://github.com/NicolasMeseguer/nicolasmeseguer.github.io/issues/new?labels=enhancement&template=_feature-request.md">Request Feature</a>
 </p>
 
-<p align="center">
-  <img src="./assets/img/academicportfolio.gif" alt="Screenshot">
-</p>
+
 
 ## Key Features
 
